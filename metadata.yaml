@@ -1,0 +1,35 @@
+_repo: Le-beau-Laurence_61411
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Sand, George
+    aliases:
+    - Dudevant, Amandine-Aurore-Lucile
+    - Dupin, Armandine Aurore Lucille
+    - Dupin, Amandine-Aurore-Lucile
+    birthdate: 1804
+    deathdate: 1876
+    gutenberg_agent_id: '851'
+    url: http://www.gutenberg.org/2009/agents/851
+    wikipedia:
+    - https://fr.wikipedia.org/wiki/George_Sand
+    - http://en.wikipedia.org/wiki/George_Sand
+description: ''
+gutenberg_bookshelf:
+- FR Nouveautés
+- FR Littérature
+gutenberg_issued: '2020-02-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61411'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Actors -- Fiction'
+- !lcc 'PQ'
+- !lcsh 'Interpersonal relations -- Fiction'
+- GITenberg
+title: Le beau Laurence
+url: http://www.gutenberg.org/ebooks/61411
